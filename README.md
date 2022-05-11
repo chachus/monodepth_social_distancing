@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This is the repository for the paper *Monitoring social distancing with single image depth estimation* (https://arxiv.org/abs/2204.01693). 
+This is the repository for our [paper](https://arxiv.org/abs/2204.01693) *Monitoring social distancing with single image depth estimation*. 
 Using monodepth neural networks, particular CNNs that learn to perform single image depth estimation, we are able to monitor social distancing in real time using a single camera setup.
 
 <!-- It combines a set of tools to provide different information on the state of social distancing:
