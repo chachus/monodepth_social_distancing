@@ -1,7 +1,7 @@
 # Monodepth Social Distancing Monitoring
 
-[![code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-![Python version](https://img.shields.io/badge/python-python%203.9-brightgreen)
+<!-- [![code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+![Python version](https://img.shields.io/badge/python-python%203.9-brightgreen) -->
 
 ## Introduction
 
