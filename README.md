@@ -29,3 +29,9 @@ On the image are drawn the distances between each person in the scene and the re
 
 ### Dataset
 ***The dataset on which the tests were performed will be made available soon.***
+
+### Citations
+A. Mingozzi, A. Conti, F. Aleotti, M. Poggi, S. Mattoccia, “Monitoring social distancing with single image depth estimation”, accepted on IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2022
+
+Arxiv version
+https://arxiv.org/abs/2204.01693
