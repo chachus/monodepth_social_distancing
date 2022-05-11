@@ -16,7 +16,7 @@ Using monodepth neural networks, particular CNNs that learn to perform single im
 As is monodepth estimation doesn't give any metric information of the estimated depth. To do so a **scaling operation** is needed. In our case a smartphone app powered by Google ARCore framework is used to obtain a sparse pointcloud of known dephts.
 
 ### ARCore pointcloud
-As staded previously, ARCore is used to acquire a pointcloud of known depths. To register the 3D points acquired from the phone to the camera 3D reference system, a trasformation is computed using known points on the scene or a known pattern (a chessboard in this case). 
+To register the 3D points acquired from the phone to the camera 3D reference system, a trasformation is computed using known points on the scene or a known pattern (a chessboard in this case). 
 ![image (1)](https://user-images.githubusercontent.com/45073899/138907701-89e03c48-c8be-435f-95f8-ac0effc845e3.jpg)
 
 ### Output
