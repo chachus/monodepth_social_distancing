@@ -26,3 +26,6 @@ On the image are drawn the distances between each person in the scene and the re
 - `red` if the there is a distance < 1 meter
 - `yellow` if there is a distance between 1 and 2 meters
 - `green` if there is a distance > 2 meter
+
+### Dataset
+The dataset on which the tests were performed will be made available soon.
