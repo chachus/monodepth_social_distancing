@@ -28,4 +28,4 @@ On the image are drawn the distances between each person in the scene and the re
 - `green` if there is a distance > 2 meter
 
 ### Dataset
-The dataset on which the tests were performed will be made available soon.
+***The dataset on which the tests were performed will be made available soon.***
